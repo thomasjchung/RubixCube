@@ -1,0 +1,74 @@
+[
+ {
+  "file": "r0.png",
+  "setup": "L B2 L2 B D B R U2 B2 F L' D2 U2 F2 B2 F R L' D2 B'",
+  "lat": -5,
+  "long": -2,
+  "roll": 2,
+  "fingers": 0
+ },
+ {
+  "file": "r1.png",
+  "setup": "L2 B' L2 U B2 L D2 L B' D2 U R2 F L' U' R L U B' D2",
+  "lat": -5,
+  "long": -2,
+  "roll": -5,
+  "fingers": 0
+ },
+ {
+  "file": "r2.png",
+  "setup": "L2 R' L' U2 B2 R2 B' R U' B' L2 D2 U2 F' B2 D' F' R2 L D'",
+  "lat": 4,
+  "long": -14,
+  "roll": 7,
+  "fingers": 1
+ },
+ {
+  "file": "r3.png",
+  "setup": "F2 L2 U2 D' F B F' R D2 F2 B' D L' F2 R' B2 U' D2 R F'",
+  "lat": -1,
+  "long": -16,
+  "roll": -7,
+  "fingers": 1
+ },
+ {
+  "file": "r4.png",
+  "setup": "F' U2 R' U' R' F' U2 L R' U D2 L2 R2 U2 R' D2 B L R' U",
+  "lat": -4,
+  "long": 22,
+  "roll": -12,
+  "fingers": 1
+ },
+ {
+  "file": "r5.png",
+  "setup": "L F' R' F D R2 L U2 D B' F2 R L2 F' D2 R' F U D2 R2",
+  "lat": -20,
+  "long": 27,
+  "roll": -3,
+  "fingers": 1
+ },
+ {
+  "file": "r6.png",
+  "setup": "F B' F2 B' U D2 R B' R F' L2 F D F2 B' R U2 F D' B2",
+  "lat": 5,
+  "long": -24,
+  "roll": -2,
+  "fingers": 1
+ },
+ {
+  "file": "r7.png",
+  "setup": "B' F U F2 U2 L D F B2 R D L2 U2 F' B D' B2 R' D' U2",
+  "lat": 31,
+  "long": 21,
+  "roll": 2,
+  "fingers": 1
+ },
+ {
+  "file": "r8.png",
+  "setup": "R2 F' B D U L R D U2 B L F' B2 U2 F2 L' R B' U2 R'",
+  "lat": 6,
+  "long": -8,
+  "roll": 15,
+  "fingers": 1
+ }
+]
